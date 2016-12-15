@@ -13,4 +13,4 @@ This allows to read/learn RF or IR codes in **base64 encoding** from Broadlink R
 
 The leant codes will be saved in the same directory in .txt files.
 
-[Buy me a beer :) Paypal](PayPal.Me/akshitgupta)
+[Buy me a beer :)](PayPal.Me/akshitgupta)
