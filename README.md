@@ -1,7 +1,7 @@
-# Broadlink RM2/RM RF Code Read
+# Broadlink RM2/RM/RM3 RF or IR Code Read
 
 This allows to read/learn RF or IR codes in **base64 encoding** from Broadlink RM2 or RM.
-**(IMPORTANT)** Change Mac adress with your device and IP in code_read.py with as per your local network IP.
+**(IMPORTANT)** Change Mac address with your device and IP in code_read.py with as per your local network IP.
 
 ##Steps
 1.Clone/Dowload Zip.
